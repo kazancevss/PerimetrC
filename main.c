@@ -14,15 +14,22 @@
     Copyright: Sergey Sergeyevich Kazantsev (kazancevss), 2025.
 */
 
-#define F_CPU 16000000UL
 
-#include <avr/io.h>
-#include <avr/interrupt.h>
-#include <util/delay.h>
+#include "main.h"
+
+
+
 
 int main (void)
 {
 
 
+
+    while(1)
+
+    {
+
+
+    }
 
 }
